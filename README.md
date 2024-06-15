@@ -1,5 +1,5 @@
 #  Howdy It's me, Chit Swe👋
-I am full stack developer from Myanmar.  🔄 Unfortunately, my previous account (@sudochitswe) was hacked.<br>  I've created this new account to continue my work and share my projects with the community.<br>
+I am full stack developer from Myanmar.  🔄 Unfortunately, my previous account ([@sudochitswe](https://github.com/sudochitswe)) was hacked.<br>  I've created this new account to continue my work and share my projects with the community.<br>
 
 
 ## 🌐 Socials:
