@@ -3,7 +3,7 @@ I am full stack developer from Myanmar.  🔄 Unfortunately, my previous account
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/-facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sudochitswe) [![LinkedIn](https://img.shields.io/badge/-linkedIn-107bb3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudochitswe) [![X](https://img.shields.io/badge/-X-0b0b0b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sudochitswe) [![Mastodon](https://img.shields.io/badge/-MASTODON-5c4ee5?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sudo_chitswe) 
+[![Facebook](https://img.shields.io/badge/-facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sudochitswe) [![LinkedIn](https://img.shields.io/badge/-linkedIn-107bb3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudochitswe) [![X](https://img.shields.io/badge/-X-0b0b0b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sudochitswe) [![Mastodon](https://img.shields.io/badge/-MASTODON-5c4ee5?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@sudo_chitswe) 
 
 # 💻 Tech Stack:
 
