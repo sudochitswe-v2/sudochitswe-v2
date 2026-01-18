@@ -1,5 +1,5 @@
 #  Howdy It's me, Chit Swe👋
-I am full stack developer from Myanmar.  🔄 Unfortunately, my previous account ([@sudochitswe](https://github.com/sudochitswe)) was hacked.<br>  I've created this new account to continue my work and share my projects with the community.<br>
+> **Note:** This is my new official account. My previous account ([@sudochitswe](https://github.com/sudochitswe)) was compromised, but I'm back and ready to build! 🚀<br>
 
 
 ## 🌐 Socials:
@@ -26,8 +26,9 @@ I am full stack developer from Myanmar.  🔄 Unfortunately, my previous account
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sudochitswe-v2&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sudochitswe-v2&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudochitswe-v2&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sudochitswe-v2&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sudochitswe-v2)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudochitswe-v2&layout=compact)
 
 
